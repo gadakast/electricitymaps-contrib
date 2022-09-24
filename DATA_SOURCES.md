@@ -93,7 +93,7 @@ Real-time electricity data is obtained using [parsers](https://github.com/tmrowc
   - [ENTSOE](https://transparency.entsoe.eu/content/static_content/Static%20content/web%20api/Guide.html)
   - [Energieopwek.nl](https://energieopwek.nl/)
 - New Zealand:
-  - [Transpower](https://www.transpower.co.nz/power-system-live-data)
+  - [Transpower](https://www.transpower.co.nz/power-system-live-data) 
   - [Siesa](https://www.southlanddc.govt.nz/my-southland/siesa-2/what-sieasa-does/)
   - [Energy Market Services](https://em6live.co.nz)
 - Nicaragua: [CNDC](http://www.cndc.org.ni/)
@@ -190,6 +190,7 @@ For many European countries, data is available from [ENTSO-E](https://transparen
 - Bahrain: [IRENA](https://www.irena.org/publications/2022/Apr/Renewable-Capacity-Statistics-2022)
 - Belarus: [belstat.gov.by](http://www.belstat.gov.by/upload/iblock/7f7/7f70938f51eb9e49abc4a6e62f831a2c.rar), [RenEn](http://director.by/zhurnal/arkhiv-zhurnala/arkhiv-nomerov-2017/375-7-2017-iyul-2017/5456-zelenaya-energetika-nabiraet-oboroty)
 - Belgium
+  - Nuclear: [PRIS](https://pris.iaea.org/PRIS/CountryStatistics/CountryDetails.aspx?current=BE)
   - Solar: [ELIA](https://www.elia.be/en/grid-data/power-generation/solar-pv-power-generation-data)
   - Hydro: [ELIA](https://www.elia.be/-/media/project/elia/shared/documents/elia-group/publications-pdfs/20200414_elia_annual-report-sustainability_en.pdf)
   - Wind: [ELIA](https://www.elia.be/en/grid-data/power-generation/wind-power-generation)
@@ -234,6 +235,7 @@ For many European countries, data is available from [ENTSO-E](https://transparen
 - Estonia: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show)
 - Faroe Islands: [Johan Pauli Magnussen's Thesis, p44](https://setur.fo/uploads/tx_userpubrep/BScThesis_JohanPauliMagnussen.pdf)
 - Finland:
+  - Nuclear: [PRIS](https://pris.iaea.org/PRIS/CountryStatistics/CountryDetails.aspx?current=FI)
   - Renewables: [IRENA](https://www.irena.org/publications/2022/Apr/Renewable-Capacity-Statistics-2022)
   - Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show)
 - France:
@@ -251,7 +253,7 @@ For many European countries, data is available from [ENTSO-E](https://transparen
   - Other: [Frauenhofer ISE](https://energy-charts.info/charts/installed_power/chart.htm)
 - Georgia: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show)
 - Great Britain:
-  - Nuclear: [EDF](https://www.edfenergy.com/energy/power-station/daily-statuses)
+  - Nuclear: [PRIS](https://pris.iaea.org/PRIS/CountryStatistics/CountryDetails.aspx?current=GB)
   - Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show)
 - Greece: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show)
 - Guatemala: [AMM](http://www.amm.org.gt/pdfs2/2017/Capacidad_Instalada_2017.xls)
